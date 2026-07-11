@@ -21,4 +21,4 @@ The launcher creates a local `.venv`, installs `openpyxl`, and opens the app.
 5. Click `Generate Excel Quote`.
 6. The generated workbook is saved in `outputs`.
 
-The blank Excel template lives in `templates/Template Quote.xlsx`. Generated quote numbers start at `SQ26270001` and increment after each successful generation. The generated `outputs` and local `.venv` are ignored by git so the repo is ready to share.
+The blank Excel template lives in `templates/Template Quote.xlsx`. Generated quote numbers start at `SQ26270001` and increment after each successful generation.
