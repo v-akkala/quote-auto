@@ -1,0 +1,1253 @@
+[
+  {
+    "test_type": "Altitude - Low Temperature Test",
+    "standard_count": 2,
+    "standards": [
+      "Method 1011 of MIL STD 1344A (WITHDRAWN)",
+      "EIA-364-105B"
+    ]
+  },
+  {
+    "test_type": "Altitude / Low Air Pressure Test",
+    "standard_count": 27,
+    "standards": [
+      "ASTM D 4169-16",
+      "ASTM D 7386-16",
+      "ASTM D6653M",
+      "Clause 3.8.3 of MIL-PRF-28800F",
+      "Clause 38.3.4.1 of UN 38.3",
+      "Clause 4.5.5.2 of MIL STD 28800 F",
+      "Clause 4.6.1 of RTCA DO160G",
+      "Clause 5.9 of ISO 15003",
+      "EN 2591-311",
+      "EN 50125-1",
+      "EN 50125-2",
+      "EN 50125-3",
+      "IEC 60068-2-13",
+      "IS 9000 Part 13",
+      "IS/IEC 60068-2-13",
+      "ISO 15003",
+      "Method 500.3 of MIL-STD-810E",
+      "MIL-STD-883L",
+      "Revision No. 1, Test number 3 of JSS 0256-01",
+      "SAE J1455",
+      "Test Method 500.4 of MIL-STD-810F (WITHDRAWN)",
+      "Test Method 500.5 of MIL-STD-810G(Withdrawn)",
+      "Test Method, 500.6 of MIL-STD-810H",
+      "Test Number 1 of JSS 5855-11",
+      "Test Number 2 of JSS 50101",
+      "Test Number 3 of JSS 55555",
+      "UL 1642"
+    ]
+  },
+  {
+    "test_type": "Altitude / Low Air Pressure Test / Barometric Pressure (Reduced)",
+    "standard_count": 1,
+    "standards": [
+      "Test method 105 of MIL-STD-202H"
+    ]
+  },
+  {
+    "test_type": "Altitude / Sealing Test",
+    "standard_count": 1,
+    "standards": [
+      "QM 333"
+    ]
+  },
+  {
+    "test_type": "Altitude Immersion Test",
+    "standard_count": 1,
+    "standards": [
+      "EIA-364-03D"
+    ]
+  },
+  {
+    "test_type": "Atmospheric Pre-Conditioning",
+    "standard_count": 6,
+    "standards": [
+      "ISTA 1G",
+      "ISTA 2A",
+      "ISTA 3A",
+      "ISTA 3E",
+      "Sequence 1 of ISTA 2A",
+      "Sequence 2 of ISTA 2A"
+    ]
+  },
+  {
+    "test_type": "Atmospheric Preconditioning -Controlled Temperature and Humidity",
+    "standard_count": 2,
+    "standards": [
+      "Sequence 2 of ISTA 3A",
+      "Sequence 2 of ISTA 3E"
+    ]
+  },
+  {
+    "test_type": "Atmospheric Preconditioning -Temperature and Humidity",
+    "standard_count": 2,
+    "standards": [
+      "Sequence 1 of ISTA 3A",
+      "Sequence 1 of ISTA 3E"
+    ]
+  },
+  {
+    "test_type": "Bench Handling",
+    "standard_count": 2,
+    "standards": [
+      "Clause 3.8.5.3 of MIL-PRF-28800F",
+      "Clause 4.5.5.4.3 of MIL STD 28800 F"
+    ]
+  },
+  {
+    "test_type": "Bounce Test",
+    "standard_count": 2,
+    "standards": [
+      "Clause 3.8.4.3 of MIL-PRF-28800F",
+      "Test Number 4 of JSS 55555"
+    ]
+  },
+  {
+    "test_type": "Bump Test",
+    "standard_count": 11,
+    "standards": [
+      "Clause No 12.2.12 of IEC 60571",
+      "IEC 60068-2-27",
+      "IEC 60068-2-85",
+      "IS 10250",
+      "IS 9000 (Part 7/Sec 2)(Withdrawn)",
+      "ISO 9022-22",
+      "Test Number 11 of JSS 50101",
+      "Test Number 13 of JSS 55400",
+      "Test Number 21 of JSS-0256-01",
+      "Test Number 3 of JSS 5855-11",
+      "Test Number 5 of JSS 55555"
+    ]
+  },
+  {
+    "test_type": "Change of Temperature / Temperature Cycling Test",
+    "standard_count": 13,
+    "standards": [
+      "Clause 4.3.2 of EN 50155",
+      "Clause 5.2 & 5.3 of ISO 16750-4",
+      "ETSI EN 300 019-2-1",
+      "ETSI EN 300 019-2-3",
+      "ETSI EN 300 019-2-4",
+      "ETSI EN 300 019-2-5",
+      "ETSI EN 300 019-2-6: 2001,",
+      "JSS 55430",
+      "Na & Nb, IEC 60068-2-14: 2023, IS/IEC 60068: Part 2: Sec 14",
+      "Section 5 Category B & C of RTCA DO-160G",
+      "Test Method 1010.9 of MIL-STD-883L",
+      "Test No.20 of JSS 50101",
+      "Test number 13.15 of JSS 55430"
+    ]
+  },
+  {
+    "test_type": "Chemical Loads",
+    "standard_count": 1,
+    "standards": [
+      "ISO 16750-5"
+    ]
+  },
+  {
+    "test_type": "Climatic Sequence (Dry Heat, Low Air Pressure, Damp Heat Cyclic Test, Cold Test)",
+    "standard_count": 1,
+    "standards": [
+      "EN 2591-302"
+    ]
+  },
+  {
+    "test_type": "Cold Test / Low Temperature Test",
+    "standard_count": 38,
+    "standards": [
+      "Clause 12.2.4 of IEC 60571",
+      "Clause 13.4.4, 13.4.6 OF EN 50155",
+      "Clause 2.3.3 of IS 15908",
+      "Clause 4.3 of IEC 62498-1",
+      "Clause 4.4 of IS 10250",
+      "Clause 5.1.1 of ISO 16750-4",
+      "Clause 5.2 of ISO 15003",
+      "Clause 5.6 of IS 2175",
+      "DNVGL- CG-0339",
+      "EN 2591-310",
+      "EN 50125-1",
+      "ETSI EN 300 019-2-1",
+      "ETSI EN 300 019-2-2",
+      "ETSI EN 300 019-2-3",
+      "ETSI EN 300 019-2-4",
+      "ETSI EN 300 019-2-5",
+      "ETSI EN 300 019-2-6",
+      "ETSI TS 101 263, ETSI TS 100 783 V1.2.1",
+      "GR-63-CORE",
+      "IEC 60068-2-1",
+      "IEC 61300-2-17",
+      "ISO 15003",
+      "ISO 9022-2",
+      "ISTA 3a",
+      "JSS 55430",
+      "Method 502.3 of MIL-STD-810E",
+      "Test 8.4 of IEC 60945",
+      "Test A of EN 60068-2-1",
+      "Test A of IS/IEC 60068-2-1",
+      "Test Method 5.1.2 of MIL-HDBK-310",
+      "Test Method 502.4 of MIL-STD-810F (WITHDRAWN)",
+      "Test Method 502.5 of MIL-STD-810G(Withdrawn)",
+      "Test Method 502.7 of MIL-STD-810H",
+      "Test No. 1 of QM333",
+      "Test Number 12 of JSS 5855-11",
+      "Test Number 2 of JSS 0256-01",
+      "Test Number 20 of JSS 55555",
+      "Test Number 21 of JSS 50101"
+    ]
+  },
+  {
+    "test_type": "Cold Test / Low Temperature Test / Dew Point Test",
+    "standard_count": 1,
+    "standards": [
+      "Method 1013 of MIL-STD-883L"
+    ]
+  },
+  {
+    "test_type": "Cold/Low Pressure and Damp Heat / CATH",
+    "standard_count": 1,
+    "standards": [
+      "EN 2591-303"
+    ]
+  },
+  {
+    "test_type": "Combined Climatic (Temperature/Humidity) and Dynamic (Vibration/Shock) Tests",
+    "standard_count": 1,
+    "standards": [
+      "IEC 60068-2-53"
+    ]
+  },
+  {
+    "test_type": "Combined Environments / CATH",
+    "standard_count": 1,
+    "standards": [
+      "Method 520.5 of MIL-STD-810 H"
+    ]
+  },
+  {
+    "test_type": "Composite Temperature/Humidity Cyclic Test",
+    "standard_count": 7,
+    "standards": [
+      "Clause 4.3.7 of EN 50155",
+      "IS/IEC 60068-2-38",
+      "ISTA 2A",
+      "ISTA 3A",
+      "MIL-DTL-3885H",
+      "Test number 13.16.8 of JSS 55430",
+      "Test Z/AD of IEC 60068-2-38"
+    ]
+  },
+  {
+    "test_type": "Contamination",
+    "standard_count": 2,
+    "standards": [
+      "Test Number 4 of JSS 5855-11",
+      "Test Number 6 of JSS 55555"
+    ]
+  },
+  {
+    "test_type": "Contamination by Fluids",
+    "standard_count": 4,
+    "standards": [
+      "Method 504 of MIL-STD-810 F",
+      "Method 504.1 of MIL-STD-810 G",
+      "Method 504.3 of MIL-STD-810 H",
+      "IEC 60068-2-74"
+    ]
+  },
+  {
+    "test_type": "Corrosion (Alkaline) Test",
+    "standard_count": 1,
+    "standards": [
+      "Test Number 8 of JSS 55555"
+    ]
+  },
+  {
+    "test_type": "Corrosion Test",
+    "standard_count": 1,
+    "standards": [
+      "Clause 5.5.1 of ISO 16750-4"
+    ]
+  },
+  {
+    "test_type": "Damp Heat",
+    "standard_count": 1,
+    "standards": [
+      "Test Number 6 of JSS 5855-11"
+    ]
+  },
+  {
+    "test_type": "Damp Heat (Moisture Resistance)",
+    "standard_count": 1,
+    "standards": [
+      "Test Number 6 of JSS 50101"
+    ]
+  },
+  {
+    "test_type": "Damp Heat Cyclic / Tropical Exposure Test",
+    "standard_count": 1,
+    "standards": [
+      "QM 333"
+    ]
+  },
+  {
+    "test_type": "Damp Heat Steady State",
+    "standard_count": 4,
+    "standards": [
+      "QM 333",
+      "Clause 5.7 of ISO 16750-4",
+      "EN 2591-304",
+      "IEC 60068-2-3"
+    ]
+  },
+  {
+    "test_type": "Damp Heat Test",
+    "standard_count": 7,
+    "standards": [
+      "Clause 12.2.6 of IEC 60571",
+      "Clause 8.3 of IEC 60945",
+      "IEC 60068-2-78",
+      "IS 9000 Part 4",
+      "Test- Cy of IEC 60068-2-67",
+      "Test Number 10 of JSS 55555",
+      "Test Number 7 of JSS 50101"
+    ]
+  },
+  {
+    "test_type": "Damp Heat Test, Cyclic",
+    "standard_count": 7,
+    "standards": [
+      "IEC 60068-2-30",
+      "Clause 4.3 of IS 10250",
+      "IS 9000 Part 5 Sec 1 and 2",
+      "Method 3.4 of ISO 15003",
+      "Test Db of IEC 60068-2-30",
+      "Test Number 5 of JSS 50101",
+      "EN 2591-321"
+    ]
+  },
+  {
+    "test_type": "Damp Heat Test, Cyclic / Moisture Resistance",
+    "standard_count": 2,
+    "standards": [
+      "Method 1004.7 of MIL-STD-883L",
+      "Test method 106 of MIL-STD-202H"
+    ]
+  },
+  {
+    "test_type": "Dip Test",
+    "standard_count": 1,
+    "standards": [
+      "JIS D 0203"
+    ]
+  },
+  {
+    "test_type": "Drop Test",
+    "standard_count": 34,
+    "standards": [
+      "ASTM D5276",
+      "ASTM D 5276",
+      "ASTM D4169",
+      "ASTM D7386",
+      "Clause 8.6 of IEC 60945",
+      "CS.00056",
+      "DIN ISO 9022-3",
+      "GR-63-CORE issue no. 5",
+      "GS 95006 B",
+      "IEC 60068-2-32",
+      "IPC-9592",
+      "IS 9000 Part 7 Sec 3 to 4 (withdrawn)",
+      "ISTA 1A",
+      "ISTA 2A",
+      "ISTA 3A",
+      "ISTA 3B",
+      "JIS C 0044 Part 2",
+      "JIS Z0202 (WITHDRAWN)",
+      "JIS Z0202",
+      "JSS 55400",
+      "JSS 55430",
+      "LV214, B",
+      "MBN 10 384",
+      "SAE J1455",
+      "Sequence 2 ISTA 1A, 1G",
+      "Sequence 5 ISTA 2A",
+      "Test Ec of IEC 60068-2-31",
+      "Test method 203 of MIL-STD-202H",
+      "Test Number 10 of QM 333",
+      "Test number 13 of JSS 55555",
+      "Test Number 20, 24, 25 of JSS-0256-01",
+      "Test Number 8 of JSS 5855-11",
+      "USCAR-2",
+      "VW 80332, B 6.1"
+    ]
+  },
+  {
+    "test_type": "Dry Heat / High Temperature",
+    "standard_count": 48,
+    "standards": [
+      "ASTM C149",
+      "ASTM D4332",
+      "BS EN 6134",
+      "CEI EN 50125-1",
+      "Clause 12.2.5 of IEC 60571",
+      "Clause 13.4.5 of EN 50155",
+      "Clause 2.3.1 of IS 15908",
+      "Clause 4.2 of IS 10250",
+      "Clause 4.3 of IEC 62498-1",
+      "Clause 5.6 of ISO 15003",
+      "Clause 5.7 of IS 2175",
+      "Clause 6.10 of IEC 62093",
+      "Clause 8.2 of IEC 60945",
+      "Clause: 5.1.2 of ISO 16750-4",
+      "DNVGL- CG-0339",
+      "EN 2591-309",
+      "ETSI EN 300 019-2-1:2017",
+      "ETSI EN 300 019-2-2:2017",
+      "ETSI EN 300 019-2-3:2020",
+      "ETSI EN 300 019-2-4:2018",
+      "ETSI EN 300 019-2-5",
+      "ETSI EN 300 019-2-6",
+      "GR-63-CORE Issue 3 March",
+      "GS 95006 B",
+      "IEC 60068-2-2",
+      "IEC 61300-2-18",
+      "IS 9000 Part 3 section 1-5",
+      "ISO 19453-4",
+      "ISO 19453-6",
+      "ISO 9022-2",
+      "ISTA 3A",
+      "JSS 55430",
+      "LV214, B",
+      "MBN 10 384",
+      "Method 501.3 of MIL-STD-810E(Withdrawn)",
+      "Test Method 40.1.1 of MIL-HDBK-310",
+      "Test Method 501.4 of MIL-STD-810F (WITHDRAWN)",
+      "Test Method 501.5 of MIL-STD-810G(Withdrawn)",
+      "Test Method 501.7 of MIL-STD-810H",
+      "Test no. 3 & 8 of AEC Q200",
+      "Test no. A6 & B1 of AEC Q100",
+      "Test Number 02 of QM33",
+      "Test Number 1 of JSS-0256-01",
+      "Test Number 10 of JSS 5855-11",
+      "Test Number 17 of JSS 55555",
+      "Test Number 22 of JSS 50101",
+      "VW 75174",
+      "EN 50125-3"
+    ]
+  },
+  {
+    "test_type": "Dry Heat / High Temperature / Burn in Test",
+    "standard_count": 1,
+    "standards": [
+      "Method 1015.12 of MIL-STD-883L"
+    ]
+  },
+  {
+    "test_type": "Dry Heat / High Temperature / Intermittent Life",
+    "standard_count": 1,
+    "standards": [
+      "Method 1006 of MIL-STD-883L"
+    ]
+  },
+  {
+    "test_type": "Dry Heat / High Temperature / Life (at Elevated Ambient Temperature)",
+    "standard_count": 1,
+    "standards": [
+      "Test method 108 of MIL-STD-202H"
+    ]
+  },
+  {
+    "test_type": "Dry Heat / High Temperature / Stabilization Bake",
+    "standard_count": 1,
+    "standards": [
+      "Method 1008.2 of MIL-STD-883L"
+    ]
+  },
+  {
+    "test_type": "Dry Heat / High Temperature / Steady State Life",
+    "standard_count": 1,
+    "standards": [
+      "Method 1005.11 of MIL-STD-883L"
+    ]
+  },
+  {
+    "test_type": "Dust Test",
+    "standard_count": 15,
+    "standards": [
+      "Test Number 14 of JSS 55555",
+      "Test Number 8 of JSS 50101",
+      "ETSI EN 300 019-2-1:2017",
+      "ETSI EN 300 019-2-2:2017",
+      "ETSI EN 300 019-2-3:2020",
+      "ETSI EN 300 019-2-4:2018",
+      "ETSI EN 300 019-2-5",
+      "ETSI EN 300 019-2-6",
+      "GR-63-CORE",
+      "IS 9000 Part 12",
+      "JIS D0203",
+      "Test Number 10 of QM 333",
+      "Test number 13.12 of JSS 55430",
+      "Test Number 9 of JSS 5855-11",
+      "Test number 9 of JSS 0256-01"
+    ]
+  },
+  {
+    "test_type": "Dust Test (Enclosure Type Number 3, 3S, 4, 4X, 5, 6, 6P, 12, 12K and 13)",
+    "standard_count": 1,
+    "standards": [
+      "ANSI/NEMA 250"
+    ]
+  },
+  {
+    "test_type": "Dust Test (IP5K & IP 6K)",
+    "standard_count": 4,
+    "standards": [
+      "Clause 5.10 of ISO 16750-4",
+      "CS.00056",
+      "JASO D014",
+      "ISO 20653"
+    ]
+  },
+  {
+    "test_type": "Dust Test (IP5X & IP 6X)",
+    "standard_count": 5,
+    "standards": [
+      "IEC 60721-2-5",
+      "ISO 15003",
+      "IEC 60034-5",
+      "IEC 60529",
+      "IS/IEC 60529"
+    ]
+  },
+  {
+    "test_type": "Dust Test (Method La2)",
+    "standard_count": 2,
+    "standards": [
+      "EN 60068-2-68",
+      "IEC 60068-2-68"
+    ]
+  },
+  {
+    "test_type": "Dust Test (Type of Test: F)",
+    "standard_count": 1,
+    "standards": [
+      "JIS D0207 F2"
+    ]
+  },
+  {
+    "test_type": "Endurance at Temperature",
+    "standard_count": 1,
+    "standards": [
+      "EN 2591-301"
+    ]
+  },
+  {
+    "test_type": "Endurance Life Test",
+    "standard_count": 1,
+    "standards": [
+      "METHOD 1033 of MIL-STD-883L"
+    ]
+  },
+  {
+    "test_type": "Fall Test",
+    "standard_count": 1,
+    "standards": [
+      "Test Number 12 of QM 333"
+    ]
+  },
+  {
+    "test_type": "Fluid Immersion",
+    "standard_count": 1,
+    "standards": [
+      "Method 1016 of MIL STD 1344A"
+    ]
+  },
+  {
+    "test_type": "Fluid Resistance",
+    "standard_count": 1,
+    "standards": [
+      "EN 2591-315"
+    ]
+  },
+  {
+    "test_type": "Fluids Susceptibility",
+    "standard_count": 1,
+    "standards": [
+      "Section 11 of RTCA_DO_160 G"
+    ]
+  },
+  {
+    "test_type": "Free Fall",
+    "standard_count": 2,
+    "standards": [
+      "Clause 4.3 of ISO 16750-3",
+      "EN 2591-421"
+    ]
+  },
+  {
+    "test_type": "Humidity Bias",
+    "standard_count": 1,
+    "standards": [
+      "Test no. 7 of AEC Q200"
+    ]
+  },
+  {
+    "test_type": "Humidity Heat, Cyclic Test",
+    "standard_count": 3,
+    "standards": [
+      "Clause 13.4.7 of EN 50155",
+      "clause 5.6 ISO 16750-4",
+      "JSS 55400"
+    ]
+  },
+  {
+    "test_type": "Humidity Test",
+    "standard_count": 35,
+    "standards": [
+      "Clause 3.8.2.3 of MIL STD 28800 F",
+      "Method 1002.2 of MIL STD 1344A",
+      "Clause 4.4 of IEC 62498-1",
+      "EIA-364-31F",
+      "EN 50125-1",
+      "EN 50125-3",
+      "EN 60068-2-78",
+      "ETSI EN 300 019-2-1",
+      "ETSI EN 300 019-2-2",
+      "ETSI EN 300 019-2-3",
+      "ETSI EN 300 019-2-4",
+      "ETSI EN 300 019-2-5",
+      "ETSI EN 300 019-2-6: 2001,",
+      "GMW3191",
+      "GR-63-CORE Issue 3 March",
+      "GR-63-CORE",
+      "GS 95006 B",
+      "IEC 60721-2-1",
+      "IPC-9592(Withdrawn)",
+      "IS 15908",
+      "ISO 6270-2",
+      "JASO D014",
+      "Method 507.3 of MIL-STD-810E",
+      "MIL-HDBK-310",
+      "PF90012",
+      "SAE J1455",
+      "Section 6 of RTCA DO-160F, G",
+      "Test method 103 of MIL-STD-202H",
+      "Test Method 507.4 of MIL-STD-810F (WITHDRAWN)",
+      "Test Method 507.5 of MIL-STD-810G(Withdrawn)",
+      "Test Method 507.6 of MIL-STD-810H",
+      "Test Number 10 of JSS-5855-11",
+      "USCAR-2",
+      "USCAR-21",
+      "VW 75174"
+    ]
+  },
+  {
+    "test_type": "Ice Water Shock",
+    "standard_count": 1,
+    "standards": [
+      "Clause 5.4 of ISO 16750-4"
+    ]
+  },
+  {
+    "test_type": "Immersion",
+    "standard_count": 5,
+    "standards": [
+      "Method 104 A of MIL-STD-202 G",
+      "Method 512.4 of MIL-STD-810 F",
+      "Method 512.5 of MIL-STD-810 G",
+      "Test Number 11 of JSS 5855-11",
+      "Test Number 19 of JSS 55555"
+    ]
+  },
+  {
+    "test_type": "Immersion at Low Air Pressure / Altitude",
+    "standard_count": 1,
+    "standards": [
+      "EN 2591-314"
+    ]
+  },
+  {
+    "test_type": "Impact Test",
+    "standard_count": 1,
+    "standards": [
+      "IEC 61300-2-12"
+    ]
+  },
+  {
+    "test_type": "Life (at Elevated Ambient Temperature)",
+    "standard_count": 1,
+    "standards": [
+      "Method 108A of MIL-STD-202 G"
+    ]
+  },
+  {
+    "test_type": "Life/Reliability Characterization Tests (High Temperature)",
+    "standard_count": 1,
+    "standards": [
+      "Method 1016.2 of MIL-STD-883L"
+    ]
+  },
+  {
+    "test_type": "Loose Load Vibration (Schedule F)",
+    "standard_count": 1,
+    "standards": [
+      "ASTM D 4169"
+    ]
+  },
+  {
+    "test_type": "Mechanical Drop Test",
+    "standard_count": 1,
+    "standards": [
+      "AIS 156/DF"
+    ]
+  },
+  {
+    "test_type": "Mechanical Shock",
+    "standard_count": 4,
+    "standards": [
+      "AIS 156/DF",
+      "Clause 4.5.5.4 of MIL STD 28800 F",
+      "Test no. 13 of AEC Q200",
+      "Test no. G1 of AEC Q100"
+    ]
+  },
+  {
+    "test_type": "Microsecond Discontinuity Test",
+    "standard_count": 1,
+    "standards": [
+      "EIA-364-46C"
+    ]
+  },
+  {
+    "test_type": "Moisture and Rain Test",
+    "standard_count": 1,
+    "standards": [
+      "JIS D 0203"
+    ]
+  },
+  {
+    "test_type": "Moisture Resistance",
+    "standard_count": 1,
+    "standards": [
+      "Method 106 G of MIL-STD-202 G"
+    ]
+  },
+  {
+    "test_type": "Ozone Test",
+    "standard_count": 2,
+    "standards": [
+      "ASTM D 1171",
+      "ISO 1431-1"
+    ]
+  },
+  {
+    "test_type": "Preseal Burn-In",
+    "standard_count": 1,
+    "standards": [
+      "METHOD 1030.2 of MIL-STD-883L"
+    ]
+  },
+  {
+    "test_type": "Random Vibration (ESS)",
+    "standard_count": 1,
+    "standards": [
+      "Method 3.15 of MIL-STD-28800F"
+    ]
+  },
+  {
+    "test_type": "Rapid Change of Temperature",
+    "standard_count": 1,
+    "standards": [
+      "EN 2591-305"
+    ]
+  },
+  {
+    "test_type": "Rapid Temperature Cycling Test/ Temperature Cycling Test",
+    "standard_count": 2,
+    "standards": [
+      "MIL-STD-2164A",
+      "Test Number 4 of QM 333"
+    ]
+  },
+  {
+    "test_type": "Resistance to Solvents",
+    "standard_count": 3,
+    "standards": [
+      "METHOD 2015.14 of MIL-STD-883L .",
+      "Test no. 12 of AEC Q200",
+      "Test method 216 of MIL-STD-202H"
+    ]
+  },
+  {
+    "test_type": "Salt Exposure",
+    "standard_count": 1,
+    "standards": [
+      "MIL-PRF-28800F"
+    ]
+  },
+  {
+    "test_type": "Salt Fog/Mist Cyclic Test",
+    "standard_count": 1,
+    "standards": [
+      "Test Kb of IEC 60068-2-52"
+    ]
+  },
+  {
+    "test_type": "Salt Fog/Mist Test",
+    "standard_count": 42,
+    "standards": [
+      "SA 17 of UL 458",
+      "ANSI/NEMA 250",
+      "ASTM B117",
+      "ASTM B368",
+      "BS EN ISO 9227",
+      "Clause 3.5 of ISO 9022-4",
+      "Clause 5.5 of ISO 16750-4",
+      "Clause 8.12 of IEC 60945",
+      "Clause No 12.2.11 of IEC 60571",
+      "EIA-364-26C, 26B",
+      "EN 2591- 307",
+      "EN 50155",
+      "IS 9844",
+      "ISO 15003",
+      "ISO 9227",
+      "JASO D014",
+      "JIS C 0023",
+      "JIS C 60068-2-11",
+      "JIS Z 2371",
+      "JIS Z 2371 (Withdrawn 1994)",
+      "JIS Z 2371 (Withdrawn 2015)",
+      "JISC0023 (Withdrawn 2004)",
+      "JSS 55400",
+      "JSS 55430",
+      "JSS 5855-11",
+      "Method 1001.1 of MIL STD 1344A",
+      "Method 1009.8 of MIL-STD-883L",
+      "Method 509.3 of MIL-STD-810E",
+      "MIL-HDBK-344A",
+      "MIL-STD-108E",
+      "MIL-STD-750F",
+      "QM 333",
+      "SAE J1455",
+      "Section 14 of RTCA DO-160G",
+      "Test Ka of IEC 60068-2-11",
+      "Test method 101 of MIL-STD-202H",
+      "Test Method 509.4 of MIL-STD-810F (WITHDRAWN)",
+      "Test Method 509.7 of MIL-STD-810H",
+      "Test Method 516.6 of MIL-STD-810G(Withdrawn)",
+      "Test Number 12 of JSS-0256-01",
+      "Test Number 4 of JSS 50101",
+      "Test Number 9 of JSS 55555"
+    ]
+  },
+  {
+    "test_type": "Shock Test",
+    "standard_count": 55,
+    "standards": [
+      "AIS 156",
+      "ANSI/EIA-364-27D",
+      "Clause 38.3.4.4 of UN 38.3",
+      "Clause 4.2 of ISO 16750-3",
+      "Clause No 12.2.12 of IEC 60571",
+      "Clause No. 2.2.2 of AIS 048",
+      "CS.00056",
+      "DIN EN 60068-2-27",
+      "EIA 364-27D",
+      "EIA-364-27D",
+      "EN 2591-402",
+      "ETSI EN 300 019-2-1",
+      "ETSI EN 300 019-2-2",
+      "ETSI EN 300 019-2-3",
+      "ETSI EN 300 019-2-4",
+      "ETSI EN 300 019-2-5",
+      "ETSI EN 300 019-2-6 (Withdrawn 2001)",
+      "ETSI EN 300 019-2-6",
+      "GMW3172",
+      "GMW3191",
+      "GS 95006 B",
+      "IEC 60068-2-27",
+      "IEC 61373",
+      "IS 9000 (Part 7/Sec 1)",
+      "ISO 12405-1",
+      "ISO 15003",
+      "ISO 16750-3",
+      "ISO-9022-3",
+      "ISTA 1A",
+      "ISTA 2A",
+      "ISTA 3A",
+      "ISTA 3B",
+      "ISTA 3E",
+      "JIS-C-60068-2-27",
+      "LV214, B",
+      "MBN 10 384",
+      "Method 2002.5 of MIL-STD-883L",
+      "Method 2004.1 of MIL STD 1344A",
+      "Method 516.3 of MIL-STD-810E",
+      "MIL-PRF-28800F",
+      "PF90012",
+      "QM 333",
+      "SA 22 of UL 458",
+      "Section 7 of RTCA DO-160F",
+      "Section 7 of RTCA DO-160G",
+      "Test method 213 of MIL-STD-202H",
+      "Test method 516.5 of MIL-STD-810F (WITHDRAWN)",
+      "Test Method 516.6 of MIL-STD-810G(Withdrawn)",
+      "Test Method 516.8 of MIL-STD-810H",
+      "Test Number 12 of JSS 50101",
+      "Test Number 16 of JSS-5855-11",
+      "Test Number 18 of JSS-0256-01",
+      "Test Number 24 of JSS 55555",
+      "USCAR-2",
+      "VW 75174"
+    ]
+  },
+  {
+    "test_type": "Shock Test (Drop)",
+    "standard_count": 3,
+    "standards": [
+      "Sequence 2 of ISTA 1G",
+      "Sequence 3 of ISTA 1C",
+      "Sequence 3 of ISTA 1E"
+    ]
+  },
+  {
+    "test_type": "Shock Test (Functional)",
+    "standard_count": 1,
+    "standards": [
+      "Clause 3.8.5.1 of MIL-PRF-28800F"
+    ]
+  },
+  {
+    "test_type": "Shock Test / High Impact",
+    "standard_count": 2,
+    "standards": [
+      "Clause 3.8.5.4 of MIL-PRF-28800F",
+      "Test Number 16 of JSS 5855-11"
+    ]
+  },
+  {
+    "test_type": "Simulated Life",
+    "standard_count": 1,
+    "standards": [
+      "Method 1015 of MIL STD 1344A"
+    ]
+  },
+  {
+    "test_type": "Splash Water Test",
+    "standard_count": 1,
+    "standards": [
+      "Clause 5.4.2 of ISO 16750-4"
+    ]
+  },
+  {
+    "test_type": "Spray Test",
+    "standard_count": 1,
+    "standards": [
+      "JIS D 0203"
+    ]
+  },
+  {
+    "test_type": "Stacked Vibration (Schedule D)",
+    "standard_count": 1,
+    "standards": [
+      "ASTM D 4169"
+    ]
+  },
+  {
+    "test_type": "Submersion Test",
+    "standard_count": 1,
+    "standards": [
+      "Clause 5.4.3 of ISO 16750-4"
+    ]
+  },
+  {
+    "test_type": "Temperature",
+    "standard_count": 1,
+    "standards": [
+      "Clause 3.8.2 of MIL-PRF-28800F"
+    ]
+  },
+  {
+    "test_type": "Temperature Cycling",
+    "standard_count": 18,
+    "standards": [
+      "Clause 5.3.1 of ISO 16750-4",
+      "Clause 6.8 of IEC 62093",
+      "EIA 364-32H",
+      "GMW3172",
+      "GMW3191",
+      "ISO 15003",
+      "JASO D014",
+      "JES D22-A104F.01",
+      "Method 1003.1 of MIL STD 1344A",
+      "MIL- STD-810H",
+      "MIL- STD-883L",
+      "MIL-HDBK-2164A",
+      "MIL-HDBK-344A",
+      "MIL-STD-750F",
+      "Test no. 4 of AEC Q200",
+      "Test no. A4 & A5 of AEC Q100",
+      "UL 1642",
+      "Method 3.15 of MIL-STD-28800F"
+    ]
+  },
+  {
+    "test_type": "Temperature Shock / Rapid Change of Temperature / Thermal Shock",
+    "standard_count": 39,
+    "standards": [
+      "AIS 038 Rev2",
+      "AIS 156",
+      "BS EN 60068-2-14",
+      "CEI EN 50125-1",
+      "Clause 5.3.2 of ISO 16750-4",
+      "Clause 8.5 of IEC 60945",
+      "EIA 364-32H",
+      "EIA-364-32G",
+      "GMW3172",
+      "GMW3191",
+      "GR-63-CORE, Issue 3 March",
+      "GS 95006 B",
+      "IS 10250",
+      "ISO 12405-4",
+      "JASO D014",
+      "JSS 50101",
+      "LV 214",
+      "MBN 10 384",
+      "Method 5.3.5 CS.00056",
+      "Method 503.3 of MIL-STD-810E",
+      "MIL- STD-883L",
+      "MIL-DTL-3885H",
+      "MIL-STD-331",
+      "MIL-STD-750",
+      "MIL-STD-810D, Test Method 516.3",
+      "PF90012",
+      "SAE J 1455",
+      "Test Method 1011.9 of MIL-STD-883L",
+      "Test method 107, TABLE 1 of MIL-STD-202H",
+      "Test Method 503.4 of MIL-STD-810F (WITHDRAWN)",
+      "Test Method 503.5 of MIL-STD-810G(Withdrawn)",
+      "Test Method 503.7 of MIL-STD-810H",
+      "Test No. 16 of AEC Q 200",
+      "Test Number 14 of JSS 5855-11",
+      "Test Number 22 of JSS 55555",
+      "Test Number 5 of JSS-0256-01",
+      "USCAR-2",
+      "USCAR-38",
+      "VW 75174"
+    ]
+  },
+  {
+    "test_type": "Temperature, Humidity, Vibration, and Altitude / CATH Test",
+    "standard_count": 2,
+    "standards": [
+      "Test methord 520.2 OF MIL-STD-810 F (WITHDRAWN)",
+      "Test methord 520.3 OF MIL-STD-810 G (WITHDRAWN)"
+    ]
+  },
+  {
+    "test_type": "Temperature-Humidity Bias",
+    "standard_count": 1,
+    "standards": [
+      "Test no. A2 of AEC Q100"
+    ]
+  },
+  {
+    "test_type": "Temperature-Humidity-Altitude",
+    "standard_count": 6,
+    "standards": [
+      "EIA-364-105B",
+      "IEC 60068-2-39",
+      "ISO 2873",
+      "RTCA DO-160G",
+      "Test number 3 & 30 of JSS 55555",
+      "Method 520.3 of MIL-STD-810E"
+    ]
+  },
+  {
+    "test_type": "Thermal Cycling",
+    "standard_count": 1,
+    "standards": [
+      "MIL HDBK 344"
+    ]
+  },
+  {
+    "test_type": "Thermal Cycling / AGREE Life",
+    "standard_count": 1,
+    "standards": [
+      "Method 1006 of MIL-STD-883L"
+    ]
+  },
+  {
+    "test_type": "Thermal Cycling / Thermal Shock",
+    "standard_count": 1,
+    "standards": [
+      "Method 1010.9 of MIL-STD-883L"
+    ]
+  },
+  {
+    "test_type": "Thermal Test",
+    "standard_count": 1,
+    "standards": [
+      "Clause 38.3.4.2 of UN 38.3"
+    ]
+  },
+  {
+    "test_type": "Toppling Test",
+    "standard_count": 7,
+    "standards": [
+      "IEC 60068-2-31",
+      "IEC 60068-2-32",
+      "Test Number 18 of JSS 5855-11",
+      "Test Number 22 of JSS 0256-01",
+      "Test number 26 of JSS 55555",
+      "Test Number 26 of JSS 55555",
+      "QM 333"
+    ]
+  },
+  {
+    "test_type": "Transit Drop",
+    "standard_count": 5,
+    "standards": [
+      "Clause 3.8.5.2 of MIL-PRF-28800F",
+      "Test Method 516.5 of MIL-STD-810F (WITHDRAWN)",
+      "Test Method 516.6 of MIL-STD-810G(Withdrawn)",
+      "Test Method 516.8 of MIL-STD-810H",
+      "Test Number 25 of JSS 0256-01"
+    ]
+  },
+  {
+    "test_type": "Tropical Exposure Test",
+    "standard_count": 3,
+    "standards": [
+      "Test Number 19 of JSS 5855-11",
+      "Test Number 27 of JSS 55555",
+      "Test Number 4 of JSS-0256-01"
+    ]
+  },
+  {
+    "test_type": "Variable Frequency Vibration",
+    "standard_count": 1,
+    "standards": [
+      "Test no. G2 of AEC Q100"
+    ]
+  },
+  {
+    "test_type": "Vehicle Vibration (Schedule E)",
+    "standard_count": 1,
+    "standards": [
+      "ASTM D 4169"
+    ]
+  },
+  {
+    "test_type": "Vibration Test",
+    "standard_count": 80,
+    "standards": [
+      "AIS 038",
+      "AIS 156",
+      "ASTM D3580",
+      "ASTM D4169",
+      "ASTM D4728-17",
+      "ASTM D5112",
+      "Clause 12.2.12 of IEC 60571",
+      "Clause 4.1 of ISO 16750-3",
+      "Clause 4.12 of ISO 7481",
+      "Clause 8.7 of IEC 60945",
+      "Clause No. 2.2.1 of AIS 048",
+      "EIA-364-28F",
+      "EN 2591-403",
+      "EN 50125-1",
+      "EN 50125-2",
+      "EN 50125-3",
+      "EN 50155",
+      "EN 60068-2-6",
+      "EN 60068-2-64",
+      "EN 61373",
+      "ETSI EN 300 019-2-1",
+      "ETSI EN 300 019-2-2",
+      "ETSI EN 300 019-2-3",
+      "ETSI EN 300 019-2-4",
+      "ETSI EN 300 019-2-5",
+      "ETSI EN 300 019-2-6",
+      "GR-63-CORE",
+      "GS 95006 B 52.4",
+      "IEC 60068-2-55",
+      "IEC 60068-2-6",
+      "IEC 60068-2-64",
+      "IEC 60068-2-80",
+      "IEC 60068-34",
+      "IEC 60512-6-4",
+      "IEC 60512-6-5",
+      "IEC 60721-2-9",
+      "IEC 61373",
+      "IS 10250",
+      "IS/IEC 60068-2-6",
+      "ISO 12405-1",
+      "ISO 15003",
+      "ISO 2247 Ed.3",
+      "ISO 9022-22",
+      "ISTA 2A",
+      "ISTA 3E",
+      "JASO D 001",
+      "JIS D 1601 (Withdrawn 1995)",
+      "JIS D 1601",
+      "JSS 55400",
+      "LV214, B 17.2",
+      "LV214, B 19.6",
+      "Method 2005.1 of MIL STD 1344A",
+      "Method 514.4 of MIL-STD-810E",
+      "Method A1 8 of ASTM D 999",
+      "Method 2007.3 of MIL-STD-883L",
+      "MIL 2164",
+      "MIL-DTL-3885H",
+      "MIL-PRF-28800F",
+      "MIL-STD/HDBK-2164",
+      "MIL-STD-750F",
+      "NEMA TS 2",
+      "QM 333",
+      "SA 21 of UL 458",
+      "Schedule D of ASTM D 7386",
+      "Section 8.0 of RTCA DO-160G",
+      "Sequence 1 of ISTA 1A, 1G",
+      "Sequence 1 of ISTA 1E",
+      "Sequence 2 of ISTA 1C",
+      "Test method 201 & 204 of MIL-STD-202H",
+      "Test Method 514.5 of MIL-STD-810F (WITHDRAWN)",
+      "Test Method 514.6 of MIL-STD-810G(Withdrawn)",
+      "Test Method 514.8 of MIL-STD-810H",
+      "Test no. 14 of AEC Q200",
+      "Test Number 13 of JSS 55430",
+      "Test Number 15 of JSS 0256-01",
+      "Test Number 20 of JSS-5855-11",
+      "Test Number 23 & 24 of JSS 50101",
+      "Test Number 28 of JSS 55555",
+      "UN 38.3",
+      "USCAR-2"
+    ]
+  },
+  {
+    "test_type": "Vibration Test / Random Vibration",
+    "standard_count": 3,
+    "standards": [
+      "Sequence 4 &5 of ISTA 3A",
+      "METHOD 2026 of MIL-STD-883L",
+      "Test method 214 of MIL-STD-202H"
+    ]
+  },
+  {
+    "test_type": "Vibration Test / Vibration Fatigue",
+    "standard_count": 1,
+    "standards": [
+      "METHOD 2005.2 of MIL-STD-883L"
+    ]
+  },
+  {
+    "test_type": "Vibration Test / Vibration Noise",
+    "standard_count": 1,
+    "standards": [
+      "METHOD 2006.1 of MIL-STD-883L"
+    ]
+  }
+]
